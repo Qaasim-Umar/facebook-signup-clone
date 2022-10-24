@@ -1,6 +1,11 @@
 body{
-max-width:1200px;
+max-width: 100%;
+Position:fixed;
+Width:91%;
 }
+i{
+margin-left :2px;
+} 
 
 
 
