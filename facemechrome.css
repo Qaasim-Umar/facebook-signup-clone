@@ -15,6 +15,7 @@ h1 {
 #get {
   margin-top: -10px;
   padding: 10px 0;
+  font-size: 0.9rem;
   background-color: rgb(243, 240, 196);
   color: rgb(23, 23, 116);
   height: 15px;
